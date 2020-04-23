@@ -1,7 +1,7 @@
 # hello-world
 as in guide https://guides.github.com/activities/hello-world/
 
-Follwing the above guide there was a conflit I can not see how to solve.
+Following the above guide there was a conflit I can not see how to solve.
 You are invited into here to also try the Guide or comment on the issue.
 
 testing with some text:
