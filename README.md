@@ -1,8 +1,9 @@
 # hello-world
 as in guide https://guides.github.com/activities/hello-world/
 
-Following the above guide there was a conflit I can not see how to solve.
+Following the above guide there is a conflit I can not see how to solve.
 You are invited into here to also try the Guide or comment on the issue.
+This has no code, only text as a colaborative story or document.
 
 testing with some text:
 
